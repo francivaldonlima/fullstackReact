@@ -14,7 +14,7 @@ function Tabela() {
           <td>1</td>
           <td>João</td>
           <td>joao@gmail.com</td>
-            <td className="d-flex justify-content-around bg-secondary mb-4">
+            <td className="d-flex justify-content-around bg-secondary">
                 <button className="btn btn-primary">Editar</button>
                 <button className="btn btn-danger">Excluir</button>
             </td>
@@ -23,7 +23,7 @@ function Tabela() {
           <td>2</td>
           <td>Maria</td>
           <td>maria@yahoo.com</td>
-          <td>
+          <td className="d-flex justify-content-between bg-secondary">
             <button className="btn btn-primary">Editar</button>
             <button className="btn btn-danger">Excluir</button>
             </td>
@@ -32,7 +32,7 @@ function Tabela() {
           <td>3</td>
           <td>José</td>
           <td>jose@hotmail.com</td>
-            <td>
+            <td className="d-flex justify-content-start bg-secondary">
                 <button className="btn btn-primary">Editar</button>
                 <button className="btn btn-danger">Excluir</button>
                 </td>
