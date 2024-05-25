@@ -26,7 +26,7 @@ function Tabela() {
           <td className="d-flex justify-content-between bg-secondary">
             <button className="btn btn-primary">Editar</button>
             <button className="btn btn-danger">Excluir</button>
-            </td>
+</td>
         </tr>
         <tr>
           <td>3</td>
